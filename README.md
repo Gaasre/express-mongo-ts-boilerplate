@@ -4,6 +4,7 @@ npm install
 ```
 
 ## How to launch ?
+First change your MONGODB_URL in the .env file
 ```shell
 npm run serve
 ```
